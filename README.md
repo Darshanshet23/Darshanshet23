@@ -29,7 +29,6 @@ Currently interning at Dlithe, I'm working on satellite image analysis using U-N
 - Developed an **AttnGAN** model to generate realistic room interiors from text prompts.  
 - Built using TensorFlow, Flask, HTML/CSS.  
 - Deployed with a user-friendly interface.  
-- 🔗 [View Repo](https://github.com/Darshanshet23/Satelitte_Analysis_System.git)
 
 ---
 
