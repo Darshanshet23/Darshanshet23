@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Darshan Shet
 
-🎓 AI/ML Enthusiast | Data Science Intern @ Dlithe Consultancy | Final-Year B.E. Student  
+🎓 AI/ML Enthusiast | Data Science Intern at Dlithe Consultancy | Recent Graduate  
 📍 Mangaluru, India | 💌 shetdarshan23@gmail.com | [LinkedIn](https://linkedin.com/in/shet) | [GitHub](https://github.com/Darshanshet23)
 
 ---
