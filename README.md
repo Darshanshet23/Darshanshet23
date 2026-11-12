@@ -25,14 +25,6 @@ I build production ML systems and large-scale data pipelines. Currently at **Rav
 
 ## Featured Projects
 
-### [Vehicle Fault Prediction using LightGBM](https://github.com/Darshanshet23)
-End-to-end ML pipeline for Diagnostic Trouble Code (DTC) prediction from vehicle telematics data. Feature engineering on 200+ telemetry signals, SHAP-based interpretability, LightGBM classifier.  
-`Python` `LightGBM` `SHAP` `Pandas` `Scikit-learn`
-
-### [RAG Hospital Appointment Chatbot](https://github.com/Darshanshet23/Chatbot)
-Production RAG chatbot with FastAPI + LangChain + FAISS + Gemini LLM. Handles appointment booking and cancellation via natural language. MemO persistent memory for multi-turn context.  
-`Python` `LangChain` `FAISS` `FastAPI` `MongoDB`
-
 ### [Context-Aware PDF QA System](https://github.com/Darshanshet23/Mini-LLM-Powered-Question-Answering-System-Using-RAG)
 RAG pipeline using FAISS vector store and Mistral LLM for querying any PDF document. Chunk-based document embedding with real-time Streamlit UI.  
 `Python` `RAG` `FAISS` `Mistral` `Streamlit`
