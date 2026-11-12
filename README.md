@@ -1,76 +1,60 @@
-# 👋 Hi, I'm Darshan Shet
+# Darshan Shet
 
-🎓 AI/ML Enthusiast | Data Science Intern at Dlithe Consultancy | Recent Graduate  
-📍 Mangaluru, India | 💌 shetdarshan23@gmail.com | [LinkedIn](https://linkedin.com/in/shet) | [GitHub](https://github.com/Darshanshet23)
-
----
-
-## 🔍 About Me
-
-I'm a passionate Data Science and AI enthusiast with hands-on experience in machine learning, deep learning (CNNs, GANs), and data visualization. I love building end-to-end ML systems to solve real-world problems — from image segmentation to AI-generated interior design.
-
-Currently interning at Dlithe, I'm working on satellite image analysis using U-Net. I enjoy transforming data into insights and prototypes into working applications.
+**Data Scientist · ML Engineer · Generative AI**  
+Bengaluru, India · [LinkedIn](https://linkedin.com/in/shet) · [Email](mailto:shetdarshan23@gmail.com)
 
 ---
 
-## 🛠️ Skills
+## What I do
 
-- **Languages:** Python, Java, SQL  
-- **ML & DL:** TensorFlow, Keras, CNNs, GANs, U-Net  
-- **Data Handling:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools:** Git, Streamlit, Flask, MySQL, HTML/CSS
+I build production ML systems and large-scale data pipelines. Currently at **Ravity Software Solutions**, working on an EV fleet analytics platform:
 
----
-
-## 📂 Featured Projects
-
-### 🖼️ Signifying Immediate Image Generation from Text using GANs  
-*Text-to-Image Interior Design Generator*  
-- Developed an **AttnGAN** model to generate realistic room interiors from text prompts.  
-- Built using TensorFlow, Flask, HTML/CSS.  
-- Deployed with a user-friendly interface.  
+- Engineered **300+ vehicle telematics KPIs** using Python, Pandas and PySpark — processing real-time automotive sensor data across large vehicle fleets
+- Built a **LightGBM-based DTC prediction pipeline** on 5.7M+ records across ~1.8 lakh VINs, with 200+ engineered features and SHAP-based feature selection
+- Built and optimised **Apache Spark data processing workflows** for large-scale automotive telemetry datasets
 
 ---
 
-### 🩺 Categorization of Skin Cancer using CNN  
-*AI-based Medical Image Classification*  
-- Achieved **83% accuracy** in classifying benign vs malignant skin cancer.  
-- Applied data augmentation and model checkpointing for robustness.  
-- Flask web app allows real-time image predictions.  
-- 🔗 [View Repo](https://github.com/Darshanshet23/Categorization-of-Skin-Cancer-using-CNN.git)
+## Skills
+
+**ML & Data** · Python · SQL · PySpark · Apache Spark · LightGBM · XGBoost · Scikit-learn · Pandas · SHAP · TensorFlow  
+**GenAI & LLM** · LangChain · LangGraph · RAG · FAISS · LoRA/PEFT · HuggingFace · Gemini · Mistral  
+**Deployment** · FastAPI · Flask · Streamlit · MongoDB · MySQL · AWS EC2
 
 ---
 
-### 📊 Indian Startup Funding Dashboard  
-*Interactive Data Analysis App*  
-- Built with **Streamlit**, Pandas, Matplotlib.  
-- Cleaned and transformed raw data to visualize investor trends.  
-- Dynamic filters and intuitive charts help explore funding insights.  
-- 🔗 [View Repo](#)
+## Featured Projects
+
+### [Vehicle Fault Prediction using LightGBM](https://github.com/Darshanshet23)
+End-to-end ML pipeline for Diagnostic Trouble Code (DTC) prediction from vehicle telematics data. Feature engineering on 200+ telemetry signals, SHAP-based interpretability, LightGBM classifier.  
+`Python` `LightGBM` `SHAP` `Pandas` `Scikit-learn`
+
+### [RAG Hospital Appointment Chatbot](https://github.com/Darshanshet23/Chatbot)
+Production RAG chatbot with FastAPI + LangChain + FAISS + Gemini LLM. Handles appointment booking and cancellation via natural language. MemO persistent memory for multi-turn context.  
+`Python` `LangChain` `FAISS` `FastAPI` `MongoDB`
+
+### [Context-Aware PDF QA System](https://github.com/Darshanshet23/Mini-LLM-Powered-Question-Answering-System-Using-RAG)
+RAG pipeline using FAISS vector store and Mistral LLM for querying any PDF document. Chunk-based document embedding with real-time Streamlit UI.  
+`Python` `RAG` `FAISS` `Mistral` `Streamlit`
+
+### [Satellite Image Segmentation (U-Net)](https://github.com/Darshanshet23/Satelitte_Analysis_System)
+U-Net model for land cover classification on satellite imagery. 78% pixel-level accuracy. ETL pipeline for 10,000+ image preprocessing. REST API deployment on AWS EC2.  
+`TensorFlow` `Keras` `Flask` `AWS EC2`
+
+### [Skin Cancer Classification (CNN)](https://github.com/Darshanshet23/Categorization-of-Skin-Cancer-using-CNN)
+CNN model achieving 83% accuracy classifying benign vs malignant skin lesions. Data augmentation, early stopping, model checkpointing. Flask web app for real-time predictions.  
+`TensorFlow` `Keras` `Flask` `CNN`
 
 ---
 
-### 🛰️ Satellite Image Analysis System (U-Net Model)  
-*Land Cover Classification Using Deep Learning*  
-- Intern project using **U-Net in TensorFlow/Keras**  
-- Achieved **78% pixel-level accuracy**  
-- Real-time image segmentation with Flask web preview  
-- 🔗 [View Repo](https://github.com/Darshanshet23/Satelitte_Analysis_System.git)
+## Experience
+
+**Associate Data Scientist** · Ravity Software Solutions · Dec 2025 – Present  
+**AIML Intern** · SiamComputing · Jul–Sep 2025  
+**Data Science Intern** · DLithe Consultancy · Feb–May 2025
 
 ---
 
-## 📜 Education
+## Education
 
-**B.E. in Information Science and Engineering**  
-Canara Engineering College, 2021–2025 | CGPA: 8.34
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: shetdarshan23@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/shet](https://linkedin.com/in/shet)  
-- 💻 GitHub: [Darshanshet23](https://github.com/Darshanshet23)
-
----
-
+B.E. Computer Science · Canara Engineering College · 2021–2025 · CGPA 8.34
